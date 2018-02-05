@@ -1,0 +1,43 @@
+{
+  "name": "BOT-VENOM-V2",
+  "version": "2.3.0",
+  "description": "music bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venom59770/BOT-VENOM-V2.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "music"
+  ],
+  "author": "agubelu",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/venom59770/BOT-VENOM-V2/issues"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "express": "^4.16.2",
+    "youtube-node": "^1.3.2",
+    "weather-js": "^2.0.0",
+    "cheerio": "^0.22.0",
+    "ffmpeg": "^0.0.4",
+    "youtube-search": "^1.0.10",
+    "ytdl-core": "^0.20.0",
+    "request-promise": "^4.2.2",
+    "strip-indent": "^2.0.0",
+    "chalk": "^2.3.0",
+    "moment": "^2.20.1",
+    "node-opus": "^0.2.7"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "homepage": "https://github.com/venom59770/BOT-VENOM-V2#readme"
+}
